@@ -1,0 +1,17 @@
+15.11.2022r.
+
+
+Utworzenie dwóch okienek:
+	- okno główne:
+		Dodano przyciski Eksporuj, Ustawienia, Pomoc
+		Dodano panel z informacjami o szklarni
+	- okno ustawień:
+		- parametry szklarni
+
+29.11.2022r.
+
+Utworzenie okna Pomocy
+Utworzenie klasy Roslina
+Poprawienie wyglądu okna Ustawienia (dodanie brakujących przycisków)
+Dodanie możliwości przejścia do okien Pomoc i Ustawienia
+Możliwość edycji parametrów szklarni

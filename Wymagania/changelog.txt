@@ -1,0 +1,32 @@
+15.11.2022r.
+
+
+Utworzenie dwóch okienek:
+	- okno główne:
+		Dodano przyciski Eksporuj, Ustawienia, Pomoc
+		Dodano panel z informacjami o szklarni
+	- okno ustawień:
+		- parametry szklarni
+
+29.11.2022r.
+
+Utworzenie okna Pomocy
+Utworzenie klasy Roslina
+Poprawienie wyglądu okna Ustawienia (dodanie brakujących przycisków)
+Dodanie możliwości przejścia do okien Pomoc i Ustawienia
+Możliwość edycji parametrów szklarni
+
+13.12.2022r.
+
+Dodanie wyświetlania aktualnej daty i godziny
+Dodawanie wyświetlania pory roku w zależności od miesiąca
+Dodanie parametrów i metod do Rośliny
+
+03.01.2023r.
+
+Dodanie komponentów do okna Pomocy
+Dodanie funkcji w klasie Roslina wyliczają czas następnego podlania
+Dodanie podgladu szklarni oraz danych Rosliny
+
+16.01.2023r.
+Dodanie konstruktora do klasy Roslina

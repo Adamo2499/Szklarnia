@@ -1,0 +1,2 @@
+kwiat;tulipan;30;0.3;umiarkowany;1/18/2023
+owoc;gruszka;150;2.2;umiarkowany;1/17/2023
